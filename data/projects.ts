@@ -2,7 +2,7 @@ export const projects = [
   {
     id: 1,
     title: "DentalVision AI",
-    image: "/projects/dentalvision.png",
+    image: "/portfolio/projects/dentalvision.png",
     description:
       "Commercial AI platform for smile prediction, dental analysis, and clinical decision support using Computer Vision and Deep Learning.",
     technologies: [
