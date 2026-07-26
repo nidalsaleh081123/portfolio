@@ -182,7 +182,7 @@ export default function Terminal() {
       ]);
 
       window.open(
-        "/cv/Nidal_Saleh_CV.pdf",
+        "public/cv/Nidal_Saleh_CV.pdf",
         "_blank"
       );
 
