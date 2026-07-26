@@ -52,7 +52,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/cv/Nidal_Saleh_CV.pdf"
+              href="/portfolio/cv/Nidal_Saleh_CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="
