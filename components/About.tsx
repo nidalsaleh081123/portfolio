@@ -69,7 +69,7 @@ export default function About() {
 
             <Image
 
-              src="/image.jpeg"
+              src="/portfolio/image.jpeg"
 
               alt="Nidal Saleh"
 
