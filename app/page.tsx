@@ -48,10 +48,7 @@ export default function Home() {
 
   </div>
 
-<img
-  src="/portfolio/image.jpeg"
-  alt="Nidal Saleh"
-/>
+
 </main>
 
   );
