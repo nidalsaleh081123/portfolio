@@ -2,7 +2,7 @@ export const projects = [
   {
     id: 1,
     title: "DentalVision AI",
-    image: "/portfolio/projects/dentalvision.png",
+    image: "public/projects/dentalvision.png",
     description:
       "Commercial AI platform for smile prediction, dental analysis, and clinical decision support using Computer Vision and Deep Learning.",
     technologies: [
@@ -20,7 +20,7 @@ export const projects = [
   {
     id: 2,
     title: "SMART STORE RAG",
-    image: "/projects/smartstore.png",
+    image: "public/projects/smartstore.png",
     description:
       "AI-powered shopping assistant that retrieves product information from multiple Syrian e-commerce stores using RAG architecture.",
     technologies: [
@@ -38,7 +38,7 @@ export const projects = [
   {
     id: 3,
     title: "Driver Alert System",
-    image: "/projects/driver.png",
+    image: "public/projects/driver.png",
     description:
       "Real-time driver monitoring system that detects drowsiness, distraction, and head pose using Computer Vision.",
     technologies: [
@@ -56,7 +56,7 @@ export const projects = [
   {
     id: 4,
     title: "Missense Mutation Classification",
-    image: "/projects/mutation.png",
+    image: "public/projects/mutation.png",
     description:
       "Machine Learning pipeline for classifying pathogenic genetic mutations using feature engineering and XGBoost.",
     technologies: [
@@ -73,7 +73,7 @@ export const projects = [
   {
     id: 5,
     title: "AI First Aid Assistant",
-    image: "/projects/firstaid.png",
+    image: "public/projects/firstaid.png",
     description:
       "Mobile AI assistant that provides first-aid guidance and emergency support through an intelligent conversational interface.",
     technologies: [
