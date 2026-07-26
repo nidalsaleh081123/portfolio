@@ -67,7 +67,7 @@ export default function About() {
             "
           >
 
-            <Image
+            <img
 
               src="/portfolio/image.jpeg"
 
